@@ -1,0 +1,11 @@
+1. 350 Px
+2. 310 Px
+3. Both of the boxes move all the way to the right side of the browser horizontally
+4. Box boxes move back all the way towards the left horizontally
+5. When I set the browser window less than 600 px wide, the boxes do not change in size however it cuts off a little bit of the box that is closer to the middle of the page.
+6. testDiv1 stays on the left at 310px and testDiv2 moves all the way right at 310px between 900-1300
+7. testDiv1 moves to the top of the bottom of the ruler and elongates across the browser.
+9. With a fluid layout you can resize the browser window and the text boxes within the website will also adjust. Everything shrinks with the window and it does not cut off any of the information like when it is set as a fixed layout
+10. Three columns
+11. Changed width to 25% and now all columns are the same size
+12. All columns are the same size, witha fluid layout they all adjust to the size of the browwser
